@@ -1,10 +1,3 @@
-# Author: Nils A. Treiber <nils.andre.treiber@uni-oldenburg.de>
-# Oliver Kramer <okramer@icsi.berkeley.com>
-# Jendrik Poloczek <jendrik.poloczek@madewithtea.com>
-# Justin P. Heinermann <justin.heinermann@uni-oldenburg.de>
-# Stefan Oehmcke <stefan.oehmcke@uni-oldenburg.de>
-# License: BSD 3 clause
-
 import math
 import matplotlib.pyplot as plt
 from numpy import zeros, float32
